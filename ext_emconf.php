@@ -23,4 +23,5 @@ $EM_CONF[$_EXTKEY] = [
     'autoload' => [
         'psr-4' => ['OliverThiele\\OtTexticon\\' => 'Classes']
     ],
+    1.
 ];
